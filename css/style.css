@@ -3128,8 +3128,8 @@ header .header-cart-icon .cart-count { position: absolute; top: -6px; right: -10
     20. Swiper carousel
 ====================================== */
 .swiper-container-horizontal > .swiper-pagination-bullets, .swiper-pagination-fraction { bottom: 45px; }
-.swiper-pagination-bullet { background: transparent; vertical-align: middle; border-radius: 100%; display: inline-block; height: 12px; margin: 0 7px; width: 12px; border: 2px solid #232323; outline: none; }
-.swiper-pagination-bullet.swiper-pagination-bullet-active { background: #232323; }
+.swiper-pagination-bullet { background: #e4e4e4; vertical-align: middle; border-radius: 100%; display: inline-block; height: 12px; margin: 0 7px; width: 12px; border: 2px solid #e4e4e4; outline: none; }
+.swiper-pagination-bullet.swiper-pagination-bullet-active { background: #fff; }
 .swiper-pagination-bullets { width: 100%; left: 0; }
 .swiper-pagination-custom { bottom: 0; }
 
