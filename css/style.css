@@ -2853,7 +2853,7 @@ header.sticky .navbar.header-dark .navbar-toggler-line { background: #fff; }
 .sticky .navbar.navbar-dark.header-light .navbar-nav > .nav-item.dropdown.simple-dropdown:hover > a { color: rgba(0,0,0,0.6) !important; }
 
 /* header logo */
-header .navbar .navbar-brand img, header.side-menu .logo img, header .sidebar-nav-menu .navbar-brand img { max-height: 36px; }
+header .navbar .navbar-brand img, header.side-menu .logo img, header .sidebar-nav-menu .navbar-brand img { max-height: 55px; }
 header .navbar .navbar-brand .default-logo, header.sticky .navbar-brand .alt-logo, header .sidebar-nav-menu .navbar-brand .default-logo { visibility: visible; opacity: 1; width: auto; transition-duration:0.5s; -webkit-transition-duration: 0.5s; -moz-transition-duration: 0.5s; -ms-transition-duration: 0.5s; -o-transition-duration: 0.5s; }
 header.sticky .navbar .navbar-brand .default-logo, header .navbar-brand .alt-logo, header .navbar .navbar-brand .mobile-logo, header .sidebar-nav-menu .navbar-brand .mobile-logo  { visibility: hidden; opacity: 0; width: 0; transition-duration:0.5s; -webkit-transition-duration: 0.5s; -moz-transition-duration: 0.5s; -ms-transition-duration: 0.5s; -o-transition-duration: 0.5s; }
 
@@ -3402,7 +3402,7 @@ header .header-cart-icon .cart-count { position: absolute; top: -6px; right: -10
 .grid-filter li:first-child { padding-left: 0; }
 .grid-filter li:last-child { padding-right: 0; }
 .grid-filter li a { border: 0; border-bottom: 1px solid; border-color: transparent; color:#828282; padding-bottom: 2px; }
-.grid-filter > li.active > a, .grid-filter > li.active > a:focus, .grid-filter > li.active > a:hover, .grid-filter > li > a:hover { border: 0; color: inherit; border-bottom: 1px solid; color: #232323 }
+.grid-filter > li.active > a, .grid-filter > li.active > a:focus, .grid-filter > li.active > a:hover, .grid-filter > li > a:hover { border: 0; color: inherit; border-bottom: 1px solid; color: #c89965 }
 
 /* ===================================
     22. Portfolio
@@ -4550,7 +4550,7 @@ aside .instafeed-grid.gutter-double-extra-large { margin-left: -20px; margin-rig
     26. Footer
 ====================================== */
 
-footer .footer-logo img { max-height: 36px; }
+footer .footer-logo img { max-height: 55px; }
 footer ul {padding-left: 0; list-style: none;}
 footer ul li { margin-bottom: 7px; }
 footer ul li:last-child { margin-bottom: 0; }
